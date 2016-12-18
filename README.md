@@ -7,6 +7,7 @@ You can use the "Instructions.pdf" to print out building instructions - the sour
 
 The "Schematic.pdf" shows the wiring of the LEDs as a schematic. The source is a KiCAD schematic in the Schematic folder.
 
+"Preview.gif" shows you how my colored version looks in action - animated GIF for you know... the blinky-ness...
 
 # The artwork
 The artwork was commissioned by me for this project and done by Karpour. If you create branches of the project, please make sure to either include the original, unmodified version of the lineart or replace the artwork with your own creation entirely.
